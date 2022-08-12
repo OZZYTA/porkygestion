@@ -1,6 +1,8 @@
 package com.example.a201495_2.porkgestion.utilidades;
 
 public class Utilidades {
+    
+    //probando
 
     public static String TABLA_USUARIOS="Usuarios";
     public static String CAMPO_IDCERDA="idcerda";
